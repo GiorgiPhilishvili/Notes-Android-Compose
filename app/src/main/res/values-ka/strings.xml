@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes">შენიშვნები</string>
+    <string name="skip">გამოტოვება</string>
+    <string name="lets_go">დაწყება</string>
+    <string name="scroll_right">გადადით მარჯვნივ</string>
+    <string name="search_folders">მოძებნეთ ფაილები..</string>
+    <string name="search_notes">მოძებნეთ შენიშვნები..</string>
+    <string name="search_settings">მოძებნეთ პარამეტრები..</string>
+    <string name="save">შენახვა</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="appearance">დიზაინი</string>
+    <string name="theme">თემა</string>
+    <string name="dark">მუქი</string>
+    <string name="light">ნათელი</string>
+    <string name="system">სისტემა</string>
+    <string name="color">ფერი</string>
+</resources>
