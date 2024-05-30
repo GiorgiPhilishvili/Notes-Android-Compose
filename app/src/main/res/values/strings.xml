@@ -16,6 +16,15 @@
     <string name="system">System</string>
     <string name="color">Color</string>
 
+    <!--  Onboarding  -->
+    <string name="onboarding_title_1" translatable="false">Title 1</string>
+    <string name="onboarding_title_2" translatable="false">Title 2</string>
+    <string name="onboarding_title_3" translatable="false">Title 3</string>
+
+    <string name="onboarding_message_1" translatable="false">Onboarding message here lorem ipsum text goes here..</string>
+    <string name="onboarding_message_2" translatable="false">Onboarding message here lorem ipsum text goes here..</string>
+    <string name="onboarding_message_3" translatable="false">Onboarding message here lorem ipsum text goes here..</string>
+
     <!--  Icons  -->
     <string name="ic_add" translatable="false">Add</string>
     <string name="ic_arrow_down" translatable="false">Arrow Down</string>

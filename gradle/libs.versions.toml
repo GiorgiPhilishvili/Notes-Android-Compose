@@ -13,6 +13,7 @@ navigationCompose = "2.7.7"
 composeAnimation = "1.7.0-beta01"
 ksp = "2.0.0-1.0.21"
 room = "2.6.1"
+daggerHiltAndroid = "2.48"
 hilt = "1.2.0"
 hiltAndroid = "2.49"
 hiltAndroidCompiler = "2.48"
@@ -56,3 +57,4 @@ android-application = { id = "com.android.application", version.ref = "agp" }
 jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 google-devtools-ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+google-dagger-hilt-android = { id = "com.google.dagger.hilt.android", version.ref = "daggerHiltAndroid" }
